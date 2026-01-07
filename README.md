@@ -1,4 +1,4 @@
-# discord poll monitor bot
+# community-vote
 
 this is a small, slightly over-caffeinated discord bot that helps moderators and makes moderation easier by taking help from the users.
 lets say, someone posts something bad and no mods are online. users can make a poll using the bot to delete the bad content.
